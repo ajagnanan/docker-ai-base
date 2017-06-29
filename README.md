@@ -1,4 +1,4 @@
-# docker-ml-base
+# docker-ai-base
 
 The following are included with this image:
 
@@ -13,7 +13,7 @@ The following are included with this image:
 To build the project, execute the following command in the project root:
 
 ```
-docker build -t docker-ml-base .
+docker build -t docker-ai-base .
 ```
 
 ## License
