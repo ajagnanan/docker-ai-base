@@ -1,11 +1,18 @@
-# docker-opencv-base
+# docker-ml-base
+
+The following are included with this image:
+
+- [https://github.com/opencv/opencv](https://github.com/opencv/opencv)
+- [https://github.com/dmlc/mxnet](https://github.com/dmlc/mxnet)
+- [https://github.com/openalpr/openalpr](https://github.com/openalpr/openalpr)
+- [https://github.com/cmusatyalab/openface](https://github.com/cmusatyalab/openface)
 
 ## Build Instructions
 
 To build the project, execute the following command in the project root:
 
 ```
-docker build -t docker-opencv-base .
+docker build -t docker-ml-base .
 ```
 
 ## License
