@@ -6,6 +6,7 @@ The following are included with this image:
 - [https://github.com/dmlc/mxnet](https://github.com/dmlc/mxnet)
 - [https://github.com/openalpr/openalpr](https://github.com/openalpr/openalpr)
 - [https://github.com/cmusatyalab/openface](https://github.com/cmusatyalab/openface)
+- [https://github.com/ZBar/ZBar](https://github.com/ZBar/ZBar)
 
 ## Build Instructions
 
